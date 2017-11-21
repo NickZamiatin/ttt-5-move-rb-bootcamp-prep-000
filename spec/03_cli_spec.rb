@@ -27,3 +27,5 @@ describe './bin/move executing a CLI Application' do
 
     run_file("./bin/move")
   end
+
+end 
